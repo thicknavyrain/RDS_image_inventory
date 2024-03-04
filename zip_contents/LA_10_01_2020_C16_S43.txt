@@ -1,0 +1,29 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 2641241 bytes (2580 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/LA_10_01_2020_C16_S43.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/LA_10_01_2020_C16_S43.7z
+Type = 7z
+Physical Size = 2641241
+Headers Size = 292
+Method = LZMA2:3m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2020-01-17 12:04:07 D....            0            0  LA_10_01_2020_C16_S43
+2020-01-10 09:11:56 ....A       457960      2640949  LA_10_01_2020_C16_S43/MFDC6336.JPG
+2020-01-10 09:16:56 ....A       454617               LA_10_01_2020_C16_S43/MFDC6337.JPG
+2020-01-10 09:21:56 ....A       457713               LA_10_01_2020_C16_S43/MFDC6338.JPG
+2020-01-10 09:26:56 ....A       456820               LA_10_01_2020_C16_S43/MFDC6339.JPG
+2020-01-10 09:31:56 ....A       452631               LA_10_01_2020_C16_S43/MFDC6340.JPG
+2020-01-10 09:36:56 ....A       454704               LA_10_01_2020_C16_S43/MFDC6341.JPG
+------------------- ----- ------------ ------------  ------------------------
+2020-01-17 12:04:07            2734445      2640949  6 files, 1 folders

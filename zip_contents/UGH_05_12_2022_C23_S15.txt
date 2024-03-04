@@ -1,0 +1,11 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 40910848 bytes (40 MiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign3/UGH/UGH_05_12_2022_C23_S15.7z
+
+
+Errors: 1

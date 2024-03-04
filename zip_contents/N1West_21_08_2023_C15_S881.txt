@@ -1,0 +1,44 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 11401111 bytes (11 MiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/N1West/N1West_21_08_2023_C15_S881.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/N1West/N1West_21_08_2023_C15_S881.7z
+Type = 7z
+Physical Size = 11401111
+Headers Size = 513
+Method = LZMA2:12m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-08-28 11:05:34 D....            0            0  N1West_21_08_2023_C15_S881
+2023-08-21 10:50:04 ....A       550782     11400598  N1West_21_08_2023_C15_S881/MFDC7176.JPG
+2023-08-21 10:55:04 ....A       551869               N1West_21_08_2023_C15_S881/MFDC7177.JPG
+2023-08-21 11:00:04 ....A       562720               N1West_21_08_2023_C15_S881/MFDC7178.JPG
+2023-08-21 11:05:04 ....A       562309               N1West_21_08_2023_C15_S881/MFDC7179.JPG
+2023-08-21 11:10:04 ....A       575364               N1West_21_08_2023_C15_S881/MFDC7180.JPG
+2023-08-21 11:15:04 ....A       565717               N1West_21_08_2023_C15_S881/MFDC7181.JPG
+2023-08-21 11:20:04 ....A       567328               N1West_21_08_2023_C15_S881/MFDC7182.JPG
+2023-08-21 11:25:04 ....A       560041               N1West_21_08_2023_C15_S881/MFDC7183.JPG
+2023-08-21 11:30:04 ....A       565869               N1West_21_08_2023_C15_S881/MFDC7184.JPG
+2023-08-21 11:35:04 ....A       584685               N1West_21_08_2023_C15_S881/MFDC7185.JPG
+2023-08-21 11:40:04 ....A       580879               N1West_21_08_2023_C15_S881/MFDC7186.JPG
+2023-08-21 11:45:04 ....A       584023               N1West_21_08_2023_C15_S881/MFDC7187.JPG
+2023-08-21 11:50:04 ....A       582441               N1West_21_08_2023_C15_S881/MFDC7188.JPG
+2023-08-21 11:55:04 ....A       576323               N1West_21_08_2023_C15_S881/MFDC7189.JPG
+2023-08-21 12:00:04 ....A       577797               N1West_21_08_2023_C15_S881/MFDC7190.JPG
+2023-08-21 12:05:04 ....A       561119               N1West_21_08_2023_C15_S881/MFDC7191.JPG
+2023-08-21 12:10:04 ....A       586308               N1West_21_08_2023_C15_S881/MFDC7192.JPG
+2023-08-21 12:15:04 ....A       583427               N1West_21_08_2023_C15_S881/MFDC7193.JPG
+2023-08-21 12:20:04 ....A       565812               N1West_21_08_2023_C15_S881/MFDC7194.JPG
+2023-08-21 12:25:04 ....A       558146               N1West_21_08_2023_C15_S881/MFDC7195.JPG
+2023-08-21 12:30:04 ....A       557922               N1West_21_08_2023_C15_S881/MFDC7196.JPG
+------------------- ----- ------------ ------------  ------------------------
+2023-08-28 11:05:34           11960881     11400598  21 files, 1 folders

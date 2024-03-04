@@ -1,0 +1,37 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 6502446 bytes (6351 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/N1West/N1West_19_07_2021_C36_S44.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/N1West/N1West_19_07_2021_C36_S44.7z
+Type = 7z
+Physical Size = 6502446
+Headers Size = 414
+Method = LZMA2:23
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2021-07-26 14:33:25 D....            0            0  N1West_19_07_2021_C36_S44
+2021-07-19 09:52:24 ....A       490699      6502032  N1West_19_07_2021_C36_S44/MFDC7176.JPG
+2021-07-19 09:57:24 ....A       490674               N1West_19_07_2021_C36_S44/MFDC7177.JPG
+2021-07-19 10:02:24 ....A       530591               N1West_19_07_2021_C36_S44/MFDC7178.JPG
+2021-07-19 10:07:24 ....A       479996               N1West_19_07_2021_C36_S44/MFDC7179.JPG
+2021-07-19 10:12:24 ....A       471138               N1West_19_07_2021_C36_S44/MFDC7180.JPG
+2021-07-19 10:17:24 ....A       484489               N1West_19_07_2021_C36_S44/MFDC7181.JPG
+2021-07-19 10:22:24 ....A       472384               N1West_19_07_2021_C36_S44/MFDC7182.JPG
+2021-07-19 10:27:24 ....A       479625               N1West_19_07_2021_C36_S44/MFDC7183.JPG
+2021-07-19 10:32:24 ....A       493837               N1West_19_07_2021_C36_S44/MFDC7184.JPG
+2021-07-19 10:37:24 ....A       485932               N1West_19_07_2021_C36_S44/MFDC7185.JPG
+2021-07-19 10:42:24 ....A       496701               N1West_19_07_2021_C36_S44/MFDC7186.JPG
+2021-07-19 10:47:24 ....A       491224               N1West_19_07_2021_C36_S44/MFDC7187.JPG
+2021-07-19 10:52:24 ....A       488590               N1West_19_07_2021_C36_S44/MFDC7188.JPG
+2021-07-19 10:57:24 ....A       480704               N1West_19_07_2021_C36_S44/MFDC7189.JPG
+------------------- ----- ------------ ------------  ------------------------
+2021-07-26 14:33:25            6836584      6502032  14 files, 1 folders

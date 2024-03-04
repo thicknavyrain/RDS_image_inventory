@@ -1,0 +1,33 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 5664208 bytes (5532 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign3/Ash/EL_01_08_2022_C18_S65.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign3/Ash/EL_01_08_2022_C18_S65.7z
+Type = 7z
+Physical Size = 5664208
+Headers Size = 351
+Method = LZMA2:6m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-08-08 13:16:33 D....            0            0  EL_01_08_2022_C18_S65
+2022-08-01 11:05:22 ....A       598510      5663857  EL_01_08_2022_C18_S65/MFDC9112.JPG
+2022-08-01 11:10:22 ....A       577817               EL_01_08_2022_C18_S65/MFDC9113.JPG
+2022-08-01 11:15:22 ....A       584046               EL_01_08_2022_C18_S65/MFDC9114.JPG
+2022-08-01 11:20:22 ....A       606203               EL_01_08_2022_C18_S65/MFDC9115.JPG
+2022-08-01 11:25:22 ....A       580715               EL_01_08_2022_C18_S65/MFDC9116.JPG
+2022-08-01 11:30:22 ....A       594973               EL_01_08_2022_C18_S65/MFDC9117.JPG
+2022-08-01 11:35:22 ....A       585749               EL_01_08_2022_C18_S65/MFDC9118.JPG
+2022-08-01 11:40:22 ....A       576187               EL_01_08_2022_C18_S65/MFDC9119.JPG
+2022-08-01 11:45:24 ....A       579022               EL_01_08_2022_C18_S65/MFDC9120.JPG
+2022-08-01 11:50:22 ....A       585630               EL_01_08_2022_C18_S65/MFDC9121.JPG
+------------------- ----- ------------ ------------  ------------------------
+2022-08-08 13:16:33            5868852      5663857  10 files, 1 folders

@@ -1,0 +1,43 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 13884125 bytes (14 MiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/TMW/TMW_30_08_2021_C19_S30.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/TMW/TMW_30_08_2021_C19_S30.7z
+Type = 7z
+Physical Size = 13884125
+Headers Size = 498
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2021-09-06 12:47:30 D....            0            0  TMW_30_08_2021_C19_S30
+2021-08-30 07:57:02 ....A       708635     13883627  TMW_30_08_2021_C19_S30/MFDC3946.JPG
+2021-08-30 08:02:02 ....A       725210               TMW_30_08_2021_C19_S30/MFDC3947.JPG
+2021-08-30 08:07:02 ....A       718703               TMW_30_08_2021_C19_S30/MFDC3948.JPG
+2021-08-30 08:12:02 ....A       720230               TMW_30_08_2021_C19_S30/MFDC3949.JPG
+2021-08-30 08:17:02 ....A       729099               TMW_30_08_2021_C19_S30/MFDC3950.JPG
+2021-08-30 08:22:02 ....A       710755               TMW_30_08_2021_C19_S30/MFDC3951.JPG
+2021-08-30 08:27:02 ....A       734568               TMW_30_08_2021_C19_S30/MFDC3952.JPG
+2021-08-30 08:32:02 ....A       742553               TMW_30_08_2021_C19_S30/MFDC3953.JPG
+2021-08-30 08:37:02 ....A       713620               TMW_30_08_2021_C19_S30/MFDC3954.JPG
+2021-08-30 08:42:02 ....A       695936               TMW_30_08_2021_C19_S30/MFDC3955.JPG
+2021-08-30 08:47:02 ....A       707749               TMW_30_08_2021_C19_S30/MFDC3956.JPG
+2021-08-30 08:52:02 ....A       748370               TMW_30_08_2021_C19_S30/MFDC3957.JPG
+2021-08-30 08:57:02 ....A       748634               TMW_30_08_2021_C19_S30/MFDC3958.JPG
+2021-08-30 09:02:02 ....A       775304               TMW_30_08_2021_C19_S30/MFDC3959.JPG
+2021-08-30 09:07:02 ....A       714831               TMW_30_08_2021_C19_S30/MFDC3960.JPG
+2021-08-30 09:12:02 ....A       709466               TMW_30_08_2021_C19_S30/MFDC3961.JPG
+2021-08-30 09:17:02 ....A       715913               TMW_30_08_2021_C19_S30/MFDC3962.JPG
+2021-08-30 09:22:02 ....A       680945               TMW_30_08_2021_C19_S30/MFDC3963.JPG
+2021-08-30 09:27:02 ....A       701893               TMW_30_08_2021_C19_S30/MFDC3964.JPG
+2021-08-30 09:32:02 ....A       711916               TMW_30_08_2021_C19_S30/MFDC3965.JPG
+------------------- ----- ------------ ------------  ------------------------
+2021-09-06 12:47:30           14414330     13883627  20 files, 1 folders

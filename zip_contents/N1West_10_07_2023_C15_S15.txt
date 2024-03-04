@@ -1,0 +1,28 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 2527500 bytes (2469 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/N1West/N1West_10_07_2023_C15_S15.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/N1West/N1West_10_07_2023_C15_S15.7z
+Type = 7z
+Physical Size = 2527500
+Headers Size = 281
+Method = LZMA2:3m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-07-17 16:11:36 D....            0            0  N1West_10_07_2023_C15_S15
+2023-07-10 10:37:18 ....A       395351      2527219  N1West_10_07_2023_C15_S15/MFDC5929.JPG
+2023-07-10 10:45:02 ....A       548599               N1West_10_07_2023_C15_S15/MFDC5931.JPG
+2023-07-10 10:50:02 ....A       550881               N1West_10_07_2023_C15_S15/MFDC5932.JPG
+2023-07-10 10:55:02 ....A       561748               N1West_10_07_2023_C15_S15/MFDC5933.JPG
+2023-07-10 11:00:02 ....A       541732               N1West_10_07_2023_C15_S15/MFDC5934.JPG
+------------------- ----- ------------ ------------  ------------------------
+2023-07-17 16:11:36            2598311      2527219  5 files, 1 folders

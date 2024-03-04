@@ -1,0 +1,30 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 4572388 bytes (4466 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/UGH_16_09_2019_C25_S43.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/UGH_16_09_2019_C25_S43.7z
+Type = 7z
+Physical Size = 4572388
+Headers Size = 308
+Method = LZMA2:6m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2019-09-23 11:41:50 D....            0            0  UGH_16_09_2019_C25_S43
+2019-09-16 10:42:18 ....A       659215      4572080  UGH_16_09_2019_C25_S43/MFDC4329.JPG
+2019-09-16 10:47:18 ....A       657102               UGH_16_09_2019_C25_S43/MFDC4330.JPG
+2019-09-16 10:52:18 ....A       660780               UGH_16_09_2019_C25_S43/MFDC4331.JPG
+2019-09-16 10:57:18 ....A       664432               UGH_16_09_2019_C25_S43/MFDC4332.JPG
+2019-09-16 11:02:18 ....A       686706               UGH_16_09_2019_C25_S43/MFDC4333.JPG
+2019-09-16 11:07:18 ....A       690871               UGH_16_09_2019_C25_S43/MFDC4334.JPG
+2019-09-16 11:12:18 ....A       674968               UGH_16_09_2019_C25_S43/MFDC4335.JPG
+------------------- ----- ------------ ------------  ------------------------
+2019-09-23 11:41:50            4694074      4572080  7 files, 1 folders

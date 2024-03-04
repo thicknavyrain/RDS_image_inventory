@@ -1,0 +1,31 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 5447383 bytes (5320 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/EL_09_03_2020_C32_S21.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/EL_09_03_2020_C32_S21.7z
+Type = 7z
+Physical Size = 5447383
+Headers Size = 317
+Method = LZMA2:6m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2020-03-16 13:50:19 D....            0            0  EL_09_03_2020_C32_S21
+2020-03-09 10:23:22 ....A       710627      5447066  EL_09_03_2020_C32_S21/MFDC1532.JPG
+2020-03-09 10:28:22 ....A       689443               EL_09_03_2020_C32_S21/MFDC1533.JPG
+2020-03-09 10:33:22 ....A       706452               EL_09_03_2020_C32_S21/MFDC1534.JPG
+2020-03-09 10:38:22 ....A       710084               EL_09_03_2020_C32_S21/MFDC1535.JPG
+2020-03-09 10:43:22 ....A       704175               EL_09_03_2020_C32_S21/MFDC1536.JPG
+2020-03-09 10:48:22 ....A       693995               EL_09_03_2020_C32_S21/MFDC1537.JPG
+2020-03-09 10:53:22 ....A       688890               EL_09_03_2020_C32_S21/MFDC1538.JPG
+2020-03-09 10:58:22 ....A       700085               EL_09_03_2020_C32_S21/MFDC1539.JPG
+------------------- ----- ------------ ------------  ------------------------
+2020-03-16 13:50:19            5603751      5447066  8 files, 1 folders

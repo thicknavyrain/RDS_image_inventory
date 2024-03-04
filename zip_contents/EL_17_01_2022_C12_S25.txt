@@ -1,0 +1,40 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 8461884 bytes (8264 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/EL/EL_17_01_2022_C12_S25.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/EL/EL_17_01_2022_C12_S25.7z
+Type = 7z
+Physical Size = 8461884
+Headers Size = 456
+Method = LZMA2:12m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-01-24 13:24:14 D....            0            0  EL_17_01_2022_C12_S25
+2022-01-17 11:08:30 ....A       520384      8461428  EL_17_01_2022_C12_S25/MFDC3364.JPG
+2022-01-17 11:13:30 ....A       481513               EL_17_01_2022_C12_S25/MFDC3365.JPG
+2022-01-17 11:18:30 ....A       621727               EL_17_01_2022_C12_S25/MFDC3366.JPG
+2022-01-17 11:23:30 ....A       576351               EL_17_01_2022_C12_S25/MFDC3367.JPG
+2022-01-17 11:28:30 ....A       538010               EL_17_01_2022_C12_S25/MFDC3368.JPG
+2022-01-17 11:33:30 ....A       504718               EL_17_01_2022_C12_S25/MFDC3369.JPG
+2022-01-17 11:38:30 ....A       462054               EL_17_01_2022_C12_S25/MFDC3370.JPG
+2022-01-17 11:43:30 ....A       519711               EL_17_01_2022_C12_S25/MFDC3371.JPG
+2022-01-17 11:48:30 ....A       500266               EL_17_01_2022_C12_S25/MFDC3372.JPG
+2022-01-17 11:53:30 ....A       530752               EL_17_01_2022_C12_S25/MFDC3373.JPG
+2022-01-17 11:58:30 ....A       526409               EL_17_01_2022_C12_S25/MFDC3374.JPG
+2022-01-17 12:03:30 ....A       528976               EL_17_01_2022_C12_S25/MFDC3375.JPG
+2022-01-17 12:08:30 ....A       513474               EL_17_01_2022_C12_S25/MFDC3376.JPG
+2022-01-17 12:13:30 ....A       493488               EL_17_01_2022_C12_S25/MFDC3377.JPG
+2022-01-17 12:18:30 ....A       539398               EL_17_01_2022_C12_S25/MFDC3378.JPG
+2022-01-17 12:23:30 ....A       519020               EL_17_01_2022_C12_S25/MFDC3379.JPG
+2022-01-17 12:28:30 ....A       508045               EL_17_01_2022_C12_S25/MFDC3380.JPG
+------------------- ----- ------------ ------------  ------------------------
+2022-01-24 13:24:14            8884296      8461428  17 files, 1 folders

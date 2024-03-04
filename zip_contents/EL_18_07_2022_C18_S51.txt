@@ -1,0 +1,29 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 3647581 bytes (3563 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign3/EL/EL_18_07_2022_C18_S51.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign3/EL/EL_18_07_2022_C18_S51.7z
+Type = 7z
+Physical Size = 3647581
+Headers Size = 292
+Method = LZMA2:22
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-07-25 13:31:38 D....            0            0  EL_18_07_2022_C18_S51
+2022-07-18 10:41:44 ....A       606594      3647289  EL_18_07_2022_C18_S51/MFDC7079.JPG
+2022-07-18 10:46:44 ....A       616925               EL_18_07_2022_C18_S51/MFDC7080.JPG
+2022-07-18 10:51:44 ....A       637393               EL_18_07_2022_C18_S51/MFDC7081.JPG
+2022-07-18 10:56:44 ....A       644780               EL_18_07_2022_C18_S51/MFDC7082.JPG
+2022-07-18 11:01:44 ....A       616130               EL_18_07_2022_C18_S51/MFDC7083.JPG
+2022-07-18 11:06:44 ....A       628559               EL_18_07_2022_C18_S51/MFDC7084.JPG
+------------------- ----- ------------ ------------  ------------------------
+2022-07-25 13:31:38            3750381      3647289  6 files, 1 folders

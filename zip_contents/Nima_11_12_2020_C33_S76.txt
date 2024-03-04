@@ -1,0 +1,39 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 8736108 bytes (8532 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign/Nima/Nima_11_12_2020_C33_S76.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign/Nima/Nima_11_12_2020_C33_S76.7z
+Type = 7z
+Physical Size = 8736108
+Headers Size = 442
+Method = LZMA2:12m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2020-12-18 12:37:50 D....            0            0  Nima_11_12_2020_C33_S76
+2020-12-11 07:12:10 ....A       605482      8735666  Nima_11_12_2020_C33_S76/MFDC6210.JPG
+2020-12-11 07:17:10 ....A       594728               Nima_11_12_2020_C33_S76/MFDC6211.JPG
+2020-12-11 07:22:10 ....A       577135               Nima_11_12_2020_C33_S76/MFDC6212.JPG
+2020-12-11 07:27:10 ....A       568655               Nima_11_12_2020_C33_S76/MFDC6213.JPG
+2020-12-11 07:32:10 ....A       567912               Nima_11_12_2020_C33_S76/MFDC6214.JPG
+2020-12-11 07:37:10 ....A       569851               Nima_11_12_2020_C33_S76/MFDC6215.JPG
+2020-12-11 07:42:10 ....A       559467               Nima_11_12_2020_C33_S76/MFDC6216.JPG
+2020-12-11 07:47:10 ....A       558832               Nima_11_12_2020_C33_S76/MFDC6217.JPG
+2020-12-11 07:52:10 ....A       575148               Nima_11_12_2020_C33_S76/MFDC6218.JPG
+2020-12-11 07:57:10 ....A       567573               Nima_11_12_2020_C33_S76/MFDC6219.JPG
+2020-12-11 08:02:10 ....A       570296               Nima_11_12_2020_C33_S76/MFDC6220.JPG
+2020-12-11 08:07:10 ....A       561213               Nima_11_12_2020_C33_S76/MFDC6221.JPG
+2020-12-11 08:12:10 ....A       566886               Nima_11_12_2020_C33_S76/MFDC6222.JPG
+2020-12-11 08:17:10 ....A       564356               Nima_11_12_2020_C33_S76/MFDC6223.JPG
+2020-12-11 08:22:10 ....A       557898               Nima_11_12_2020_C33_S76/MFDC6224.JPG
+2020-12-11 08:27:10 ....A       560134               Nima_11_12_2020_C33_S76/MFDC6225.JPG
+------------------- ----- ------------ ------------  ------------------------
+2020-12-18 12:37:50            9125566      8735666  16 files, 1 folders

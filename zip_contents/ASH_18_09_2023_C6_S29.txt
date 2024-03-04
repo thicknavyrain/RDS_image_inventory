@@ -1,0 +1,27 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 3614792 bytes (3531 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/ASH/ASH_18_09_2023_C6_S29.zip
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/ASH/ASH_18_09_2023_C6_S29.zip
+Type = zip
+Physical Size = 3614792
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-09-25 12:13:18 D....            0            0  ASH_18_09_2023_C6_S29
+2017-01-01 23:11:40 ....A       482258       475710  ASH_18_09_2023_C6_S29/MFDC5890.JPG
+2017-01-01 23:16:40 ....A       466696       460195  ASH_18_09_2023_C6_S29/MFDC5891.JPG
+2017-01-01 23:21:40 ....A       469585       462884  ASH_18_09_2023_C6_S29/MFDC5892.JPG
+2017-01-01 23:26:40 ....A       458993       452275  ASH_18_09_2023_C6_S29/MFDC5893.JPG
+2017-01-01 23:31:40 ....A       445643       438781  ASH_18_09_2023_C6_S29/MFDC5894.JPG
+2017-01-01 23:36:40 ....A       441297       434650  ASH_18_09_2023_C6_S29/MFDC5895.JPG
+2017-01-01 23:41:40 ....A       443516       436657  ASH_18_09_2023_C6_S29/MFDC5896.JPG
+2017-01-01 23:46:40 ....A       458769       452022  ASH_18_09_2023_C6_S29/MFDC5897.JPG
+------------------- ----- ------------ ------------  ------------------------
+2023-09-25 12:13:18            3666757      3613174  8 files, 1 folders

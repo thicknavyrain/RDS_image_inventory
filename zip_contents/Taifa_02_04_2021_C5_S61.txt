@@ -1,0 +1,33 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 4802794 bytes (4691 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign/Taifa/Taifa_02_04_2021_C5_S61.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign/Taifa/Taifa_02_04_2021_C5_S61.7z
+Type = 7z
+Physical Size = 4802794
+Headers Size = 347
+Method = LZMA2:6m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2021-04-09 12:54:24 D....            0            0  Taifa_02_04_2021_C5_S61
+2021-04-02 10:01:02 ....A       513207      4802447  Taifa_02_04_2021_C5_S61/MFDC2306.JPG
+2021-04-02 10:06:02 ....A       506227               Taifa_02_04_2021_C5_S61/MFDC2307.JPG
+2021-04-02 10:11:02 ....A       499296               Taifa_02_04_2021_C5_S61/MFDC2308.JPG
+2021-04-02 10:16:02 ....A       499405               Taifa_02_04_2021_C5_S61/MFDC2309.JPG
+2021-04-02 10:21:02 ....A       493477               Taifa_02_04_2021_C5_S61/MFDC2310.JPG
+2021-04-02 10:26:02 ....A       495874               Taifa_02_04_2021_C5_S61/MFDC2311.JPG
+2021-04-02 10:31:02 ....A       499142               Taifa_02_04_2021_C5_S61/MFDC2312.JPG
+2021-04-02 10:36:02 ....A       509056               Taifa_02_04_2021_C5_S61/MFDC2313.JPG
+2021-04-02 10:41:02 ....A       509484               Taifa_02_04_2021_C5_S61/MFDC2314.JPG
+2021-04-02 10:46:02 ....A       490751               Taifa_02_04_2021_C5_S61/MFDC2315.JPG
+------------------- ----- ------------ ------------  ------------------------
+2021-04-09 12:54:24            5015919      4802447  10 files, 1 folders

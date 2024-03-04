@@ -1,0 +1,43 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 8499721 bytes (8301 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign/Ash/ASH_04_01_2021_C13_S75.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign/Ash/ASH_04_01_2021_C13_S75.7z
+Type = 7z
+Physical Size = 8499721
+Headers Size = 496
+Method = LZMA2:12m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2021-01-11 13:40:37 D....            0            0  ASH_04_01_2021_C13_S75
+2021-01-04 07:08:58 ....A       438700      8499225  ASH_04_01_2021_C13_S75/MFDC3649.JPG
+2021-01-04 07:13:58 ....A       439092               ASH_04_01_2021_C13_S75/MFDC3650.JPG
+2021-01-04 07:18:58 ....A       443967               ASH_04_01_2021_C13_S75/MFDC3651.JPG
+2021-01-04 07:23:58 ....A       425357               ASH_04_01_2021_C13_S75/MFDC3652.JPG
+2021-01-04 07:28:58 ....A       449534               ASH_04_01_2021_C13_S75/MFDC3653.JPG
+2021-01-04 07:33:58 ....A       453288               ASH_04_01_2021_C13_S75/MFDC3654.JPG
+2021-01-04 07:38:58 ....A       454322               ASH_04_01_2021_C13_S75/MFDC3655.JPG
+2021-01-04 07:43:58 ....A       454406               ASH_04_01_2021_C13_S75/MFDC3656.JPG
+2021-01-04 07:48:58 ....A       451443               ASH_04_01_2021_C13_S75/MFDC3657.JPG
+2021-01-04 07:53:58 ....A       453957               ASH_04_01_2021_C13_S75/MFDC3658.JPG
+2021-01-04 07:58:58 ....A       455513               ASH_04_01_2021_C13_S75/MFDC3659.JPG
+2021-01-04 08:03:58 ....A       458374               ASH_04_01_2021_C13_S75/MFDC3660.JPG
+2021-01-04 08:08:58 ....A       456673               ASH_04_01_2021_C13_S75/MFDC3661.JPG
+2021-01-04 08:13:58 ....A       453599               ASH_04_01_2021_C13_S75/MFDC3662.JPG
+2021-01-04 08:18:58 ....A       457089               ASH_04_01_2021_C13_S75/MFDC3663.JPG
+2021-01-04 08:23:58 ....A       455911               ASH_04_01_2021_C13_S75/MFDC3664.JPG
+2021-01-04 08:28:58 ....A       455263               ASH_04_01_2021_C13_S75/MFDC3665.JPG
+2021-01-04 08:33:58 ....A       456143               ASH_04_01_2021_C13_S75/MFDC3666.JPG
+2021-01-04 08:38:58 ....A       455670               ASH_04_01_2021_C13_S75/MFDC3667.JPG
+2021-01-04 08:43:58 ....A       461321               ASH_04_01_2021_C13_S75/MFDC3668.JPG
+------------------- ----- ------------ ------------  ------------------------
+2021-01-11 13:40:37            9029622      8499225  20 files, 1 folders

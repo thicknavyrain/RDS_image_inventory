@@ -1,0 +1,30 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 3945924 bytes (3854 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/Nima_27_09_2019_C27_S43.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/Nima_27_09_2019_C27_S43.7z
+Type = 7z
+Physical Size = 3945924
+Headers Size = 309
+Method = LZMA2:22
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2019-10-04 13:20:01 D....            0            0  Nima_27_09_2019_C27_S43
+2019-09-27 07:51:24 ....A       602796      3945615  Nima_27_09_2019_C27_S43/MFDC0286.JPG
+2019-09-27 07:56:24 ....A       574964               Nima_27_09_2019_C27_S43/MFDC0287.JPG
+2019-09-27 08:01:24 ....A       590888               Nima_27_09_2019_C27_S43/MFDC0288.JPG
+2019-09-27 08:06:24 ....A       575698               Nima_27_09_2019_C27_S43/MFDC0289.JPG
+2019-09-27 08:11:24 ....A       582445               Nima_27_09_2019_C27_S43/MFDC0290.JPG
+2019-09-27 08:16:24 ....A       573000               Nima_27_09_2019_C27_S43/MFDC0291.JPG
+2019-09-27 08:21:24 ....A       577554               Nima_27_09_2019_C27_S43/MFDC0292.JPG
+------------------- ----- ------------ ------------  ------------------------
+2019-10-04 13:20:01            4077345      3945615  7 files, 1 folders

@@ -1,0 +1,38 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 6343739 bytes (6196 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/ASH_23_03_2020_C6_S43.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/ASH_23_03_2020_C6_S43.7z
+Type = 7z
+Physical Size = 6343739
+Headers Size = 425
+Method = LZMA2:23
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2020-03-29 16:10:56 D....            0            0  ASH_23_03_2020_C6_S43
+2020-03-23 07:16:32 ....A       440343      6343314  ASH_23_03_2020_C6_S43/MFDC4779.JPG
+2020-03-23 07:21:32 ....A       438729               ASH_23_03_2020_C6_S43/MFDC4780.JPG
+2020-03-23 07:26:32 ....A       436803               ASH_23_03_2020_C6_S43/MFDC4781.JPG
+2020-03-23 07:31:32 ....A       435995               ASH_23_03_2020_C6_S43/MFDC4782.JPG
+2020-03-23 07:36:32 ....A       440810               ASH_23_03_2020_C6_S43/MFDC4783.JPG
+2020-03-23 07:41:32 ....A       445388               ASH_23_03_2020_C6_S43/MFDC4784.JPG
+2020-03-23 07:46:32 ....A       449050               ASH_23_03_2020_C6_S43/MFDC4785.JPG
+2020-03-23 07:51:32 ....A       454083               ASH_23_03_2020_C6_S43/MFDC4786.JPG
+2020-03-23 07:56:32 ....A       452302               ASH_23_03_2020_C6_S43/MFDC4787.JPG
+2020-03-23 08:01:32 ....A       455102               ASH_23_03_2020_C6_S43/MFDC4788.JPG
+2020-03-23 08:06:32 ....A       451362               ASH_23_03_2020_C6_S43/MFDC4789.JPG
+2020-03-23 08:11:32 ....A       452478               ASH_23_03_2020_C6_S43/MFDC4790.JPG
+2020-03-23 08:16:32 ....A       457453               ASH_23_03_2020_C6_S43/MFDC4791.JPG
+2020-03-23 08:21:32 ....A       452066               ASH_23_03_2020_C6_S43/MFDC4792.JPG
+2020-03-23 08:26:32 ....A       448351               ASH_23_03_2020_C6_S43/MFDC4793.JPG
+------------------- ----- ------------ ------------  ------------------------
+2020-03-29 16:10:56            6710315      6343314  15 files, 1 folders

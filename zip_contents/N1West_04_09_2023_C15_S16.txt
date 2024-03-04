@@ -1,0 +1,35 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 8395870 bytes (8200 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/N1West/N1West_04_09_2023_C15_S16.zip
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/N1West/N1West_04_09_2023_C15_S16.zip
+Type = zip
+Physical Size = 8395870
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-09-11 11:26:43 D....            0            0  N1West_04_09_2023_C15_S16
+2023-09-04 10:19:46 ....A       538792       532286  N1West_04_09_2023_C15_S16/MFDC7201.JPG
+2023-09-04 10:24:46 ....A       533535       526747  N1West_04_09_2023_C15_S16/MFDC7202.JPG
+2023-09-04 10:29:46 ....A       519632       512518  N1West_04_09_2023_C15_S16/MFDC7203.JPG
+2023-09-04 10:34:46 ....A       517631       511141  N1West_04_09_2023_C15_S16/MFDC7204.JPG
+2023-09-04 10:39:46 ....A       516674       510008  N1West_04_09_2023_C15_S16/MFDC7205.JPG
+2023-09-04 10:44:46 ....A       554597       548050  N1West_04_09_2023_C15_S16/MFDC7206.JPG
+2023-09-04 10:49:46 ....A       548130       541519  N1West_04_09_2023_C15_S16/MFDC7207.JPG
+2023-09-04 10:54:46 ....A       543250       536944  N1West_04_09_2023_C15_S16/MFDC7208.JPG
+2023-09-04 10:59:46 ....A       538086       531441  N1West_04_09_2023_C15_S16/MFDC7209.JPG
+2023-09-04 11:04:46 ....A       517121       510548  N1West_04_09_2023_C15_S16/MFDC7210.JPG
+2023-09-04 11:09:46 ....A       520412       513805  N1West_04_09_2023_C15_S16/MFDC7211.JPG
+2023-09-04 11:14:46 ....A       530738       523861  N1West_04_09_2023_C15_S16/MFDC7212.JPG
+2023-09-04 11:19:46 ....A       525552       518818  N1West_04_09_2023_C15_S16/MFDC7213.JPG
+2023-09-04 11:24:46 ....A       520424       513520  N1West_04_09_2023_C15_S16/MFDC7214.JPG
+2023-09-04 11:29:46 ....A       538688       531535  N1West_04_09_2023_C15_S16/MFDC7215.JPG
+2023-09-04 11:34:46 ....A       536782       529935  N1West_04_09_2023_C15_S16/MFDC7216.JPG
+------------------- ----- ------------ ------------  ------------------------
+2023-09-11 11:26:43            8500044      8392676  16 files, 1 folders

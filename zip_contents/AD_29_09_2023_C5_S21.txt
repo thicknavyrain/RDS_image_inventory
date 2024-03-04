@@ -1,0 +1,25 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 2116704 bytes (2068 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/AD/AD_29_09_2023_C5_S21.zip
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/AD/AD_29_09_2023_C5_S21.zip
+Type = zip
+Physical Size = 2116704
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-10-06 11:56:50 D....            0            0  AD_29_09_2023_C5_S21
+2023-09-29 07:47:38 ....A       332504       325574  AD_29_09_2023_C5_S21/MFDC9402.JPG
+2023-09-29 07:52:38 ....A       344087       336974  AD_29_09_2023_C5_S21/MFDC9403.JPG
+2023-09-29 07:57:38 ....A       354362       347463  AD_29_09_2023_C5_S21/MFDC9404.JPG
+2023-09-29 08:02:38 ....A       373956       367240  AD_29_09_2023_C5_S21/MFDC9405.JPG
+2023-09-29 08:07:38 ....A       370681       363958  AD_29_09_2023_C5_S21/MFDC9406.JPG
+2023-09-29 08:12:38 ....A       380876       374251  AD_29_09_2023_C5_S21/MFDC9407.JPG
+------------------- ----- ------------ ------------  ------------------------
+2023-10-06 11:56:50            2156466      2115460  6 files, 1 folders

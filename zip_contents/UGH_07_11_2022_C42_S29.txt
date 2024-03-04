@@ -1,0 +1,35 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 8703841 bytes (8500 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign3/UGH/UGH_07_11_2022_C42_S29.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign3/UGH/UGH_07_11_2022_C42_S29.7z
+Type = 7z
+Physical Size = 8703841
+Headers Size = 381
+Method = LZMA2:12m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-11-14 11:39:40 D....            0            0  UGH_07_11_2022_C42_S29
+2022-11-07 06:58:12 ....A       698717      8703460  UGH_07_11_2022_C42_S29/MFDC8842.JPG
+2022-11-07 07:03:12 ....A       763464               UGH_07_11_2022_C42_S29/MFDC8843.JPG
+2022-11-07 07:08:12 ....A       767268               UGH_07_11_2022_C42_S29/MFDC8844.JPG
+2022-11-07 07:13:12 ....A       760129               UGH_07_11_2022_C42_S29/MFDC8845.JPG
+2022-11-07 07:18:12 ....A       770661               UGH_07_11_2022_C42_S29/MFDC8846.JPG
+2022-11-07 07:23:12 ....A       772822               UGH_07_11_2022_C42_S29/MFDC8847.JPG
+2022-11-07 07:28:12 ....A       777082               UGH_07_11_2022_C42_S29/MFDC8848.JPG
+2022-11-07 07:33:12 ....A       774077               UGH_07_11_2022_C42_S29/MFDC8849.JPG
+2022-11-07 07:38:12 ....A       676091               UGH_07_11_2022_C42_S29/MFDC8850.JPG
+2022-11-07 07:43:12 ....A       726975               UGH_07_11_2022_C42_S29/MFDC8851.JPG
+2022-11-07 07:48:14 ....A       718051               UGH_07_11_2022_C42_S29/MFDC8852.JPG
+2022-11-07 07:53:12 ....A       769810               UGH_07_11_2022_C42_S29/MFDC8853.JPG
+------------------- ----- ------------ ------------  ------------------------
+2022-11-14 11:39:40            8975147      8703460  12 files, 1 folders

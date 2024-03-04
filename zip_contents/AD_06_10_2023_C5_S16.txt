@@ -1,0 +1,23 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1577469 bytes (1541 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/AD/AD_06_10_2023_C5_S16.zip
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/AD/AD_06_10_2023_C5_S16.zip
+Type = zip
+Physical Size = 1577469
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-10-13 11:27:30 D....            0            0  AD_06_10_2023_C5_S16
+2023-10-06 08:45:16 ....A       404217       397838  AD_06_10_2023_C5_S16/MFDC9408.JPG
+2023-10-06 08:55:16 ....A       401636       395119  AD_06_10_2023_C5_S16/MFDC9410.JPG
+2023-10-06 09:00:16 ....A       396247       389622  AD_06_10_2023_C5_S16/MFDC9411.JPG
+2023-10-06 09:05:16 ....A       400744       394002  AD_06_10_2023_C5_S16/MFDC9412.JPG
+------------------- ----- ------------ ------------  ------------------------
+2023-10-13 11:27:30            1602844      1576581  4 files, 1 folders

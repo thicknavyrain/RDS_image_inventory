@@ -1,0 +1,26 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 2226415 bytes (2175 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign/UGH/UGH_18_05_2020_C33_S21.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign/UGH/UGH_18_05_2020_C33_S21.7z
+Type = 7z
+Physical Size = 2226415
+Headers Size = 246
+Method = LZMA2:3m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2020-05-25 12:51:33 D....            0            0  UGH_18_05_2020_C33_S21
+2020-05-18 10:12:12 ....A       756274      2226169  UGH_18_05_2020_C33_S21/MFDC3042.JPG
+2020-05-18 10:17:12 ....A       753465               UGH_18_05_2020_C33_S21/MFDC3043.JPG
+2020-05-18 10:22:12 ....A       748149               UGH_18_05_2020_C33_S21/MFDC3044.JPG
+------------------- ----- ------------ ------------  ------------------------
+2020-05-25 12:51:33            2257888      2226169  3 files, 1 folders

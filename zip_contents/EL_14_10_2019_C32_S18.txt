@@ -1,0 +1,31 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 4529730 bytes (4424 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/EL_14_10_2019_C32_S18.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/EL_14_10_2019_C32_S18.7z
+Type = 7z
+Physical Size = 4529730
+Headers Size = 319
+Method = LZMA2:6m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2019-10-21 13:18:55 D....            0            0  EL_14_10_2019_C32_S18
+2019-10-14 10:40:46 ....A       557641      4529411  EL_14_10_2019_C32_S18/MFDC4556.JPG
+2019-10-14 10:45:46 ....A       565666               EL_14_10_2019_C32_S18/MFDC4557.JPG
+2019-10-14 10:50:46 ....A       564630               EL_14_10_2019_C32_S18/MFDC4558.JPG
+2019-10-14 10:55:46 ....A       553730               EL_14_10_2019_C32_S18/MFDC4559.JPG
+2019-10-14 11:00:46 ....A       596575               EL_14_10_2019_C32_S18/MFDC4560.JPG
+2019-10-14 11:05:46 ....A       616021               EL_14_10_2019_C32_S18/MFDC4561.JPG
+2019-10-14 11:10:46 ....A       617470               EL_14_10_2019_C32_S18/MFDC4562.JPG
+2019-10-14 11:15:46 ....A       604650               EL_14_10_2019_C32_S18/MFDC4563.JPG
+------------------- ----- ------------ ------------  ------------------------
+2019-10-21 13:18:55            4676383      4529411  8 files, 1 folders

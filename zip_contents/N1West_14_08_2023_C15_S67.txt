@@ -1,0 +1,32 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 6988929 bytes (6826 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/N1West/N1West_14_08_2023_C15_S67.zip
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/N1West/N1West_14_08_2023_C15_S67.zip
+Type = zip
+Physical Size = 6988929
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-08-21 13:01:57 D....            0            0  N1West_14_08_2023_C15_S67
+2023-08-14 10:48:46 ....A       555729       549290  N1West_14_08_2023_C15_S67/MFDC1815.JPG
+2023-08-14 10:53:46 ....A       545170       538452  N1West_14_08_2023_C15_S67/MFDC1816.JPG
+2023-08-14 10:58:46 ....A       545839       539238  N1West_14_08_2023_C15_S67/MFDC1817.JPG
+2023-08-14 11:03:46 ....A       539485       532575  N1West_14_08_2023_C15_S67/MFDC1818.JPG
+2023-08-14 11:08:46 ....A       535401       528767  N1West_14_08_2023_C15_S67/MFDC1819.JPG
+2023-08-14 11:13:46 ....A       535478       528903  N1West_14_08_2023_C15_S67/MFDC1820.JPG
+2023-08-14 11:18:46 ....A       550513       543933  N1West_14_08_2023_C15_S67/MFDC1821.JPG
+2023-08-14 11:23:46 ....A       544150       537578  N1West_14_08_2023_C15_S67/MFDC1822.JPG
+2023-08-14 11:28:46 ....A       536901       530194  N1West_14_08_2023_C15_S67/MFDC1823.JPG
+2023-08-14 11:33:46 ....A       535075       527970  N1West_14_08_2023_C15_S67/MFDC1824.JPG
+2023-08-14 11:38:46 ....A       546398       539511  N1West_14_08_2023_C15_S67/MFDC1825.JPG
+2023-08-14 11:43:46 ....A       552933       546254  N1West_14_08_2023_C15_S67/MFDC1826.JPG
+2023-08-14 11:48:46 ....A       550276       543634  N1West_14_08_2023_C15_S67/MFDC1827.JPG
+------------------- ----- ------------ ------------  ------------------------
+2023-08-21 13:01:57            7073348      6986299  13 files, 1 folders

@@ -1,0 +1,35 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 6614928 bytes (6460 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/N1West/N1West_20_12_2021_C15_S47.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/N1West/N1West_20_12_2021_C15_S47.7z
+Type = 7z
+Physical Size = 6614928
+Headers Size = 382
+Method = LZMA2:23
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2021-12-27 13:52:16 D....            0            0  N1West_20_12_2021_C15_S47
+2021-12-20 07:40:06 ....A       555666      6614546  N1West_20_12_2021_C15_S47/MFDC7355.JPG
+2021-12-20 07:45:06 ....A       555941               N1West_20_12_2021_C15_S47/MFDC7356.JPG
+2021-12-20 07:50:06 ....A       566612               N1West_20_12_2021_C15_S47/MFDC7357.JPG
+2021-12-20 07:55:06 ....A       560797               N1West_20_12_2021_C15_S47/MFDC7358.JPG
+2021-12-20 08:00:06 ....A       573760               N1West_20_12_2021_C15_S47/MFDC7359.JPG
+2021-12-20 08:05:06 ....A       573885               N1West_20_12_2021_C15_S47/MFDC7360.JPG
+2021-12-20 08:10:06 ....A       589229               N1West_20_12_2021_C15_S47/MFDC7361.JPG
+2021-12-20 08:15:06 ....A       575049               N1West_20_12_2021_C15_S47/MFDC7362.JPG
+2021-12-20 08:20:06 ....A       582111               N1West_20_12_2021_C15_S47/MFDC7363.JPG
+2021-12-20 08:25:06 ....A       574752               N1West_20_12_2021_C15_S47/MFDC7364.JPG
+2021-12-20 08:30:06 ....A       575353               N1West_20_12_2021_C15_S47/MFDC7365.JPG
+2021-12-20 08:35:06 ....A       604955               N1West_20_12_2021_C15_S47/MFDC7366.JPG
+------------------- ----- ------------ ------------  ------------------------
+2021-12-27 13:52:16            6888110      6614546  12 files, 1 folders

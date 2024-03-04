@@ -1,0 +1,31 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 6171734 bytes (6028 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/EL/EL_15_05_2023_C18_S61.zip
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/EL/EL_15_05_2023_C18_S61.zip
+Type = zip
+Physical Size = 6171734
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-05-22 06:37:05 D....            0            0  EL_15_05_2023_C18_S61
+2023-05-15 10:39:16 ....A       558907       552782  EL_15_05_2023_C18_S61/MFDC0980.JPG
+2023-05-15 10:44:16 ....A       438076       432062  EL_15_05_2023_C18_S61/MFDC0981.JPG
+2023-05-15 10:49:16 ....A       407189       400677  EL_15_05_2023_C18_S61/MFDC0982.JPG
+2023-05-15 10:54:16 ....A       487321       481042  EL_15_05_2023_C18_S61/MFDC0983.JPG
+2023-05-15 10:59:16 ....A       522551       516474  EL_15_05_2023_C18_S61/MFDC0984.JPG
+2023-05-15 11:04:16 ....A       487244       480992  EL_15_05_2023_C18_S61/MFDC0985.JPG
+2023-05-15 11:09:16 ....A       563131       556906  EL_15_05_2023_C18_S61/MFDC0986.JPG
+2023-05-15 11:14:16 ....A       539316       533167  EL_15_05_2023_C18_S61/MFDC0987.JPG
+2023-05-15 11:19:16 ....A       519758       513855  EL_15_05_2023_C18_S61/MFDC0988.JPG
+2023-05-15 11:24:16 ....A       529658       523488  EL_15_05_2023_C18_S61/MFDC0989.JPG
+2023-05-15 11:29:18 ....A       586475       580454  EL_15_05_2023_C18_S61/MFDC0990.JPG
+2023-05-15 11:34:16 ....A       603567       597497  EL_15_05_2023_C18_S61/MFDC0991.JPG
+------------------- ----- ------------ ------------  ------------------------
+2023-05-22 06:37:05            6243193      6169396  12 files, 1 folders

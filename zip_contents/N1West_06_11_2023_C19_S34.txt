@@ -1,0 +1,36 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 6407220 bytes (6258 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/N1West/N1West_06_11_2023_C19_S34.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/N1West/N1West_06_11_2023_C19_S34.7z
+Type = 7z
+Physical Size = 6407220
+Headers Size = 404
+Method = LZMA2:23
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-11-13 12:48:54 D....            0            0  N1West_06_11_2023_C19_S34
+2023-11-05 08:43:34 ....A       505128      6406816  N1West_06_11_2023_C19_S34/MFDC9543.JPG
+2023-11-05 08:48:34 ....A       494417               N1West_06_11_2023_C19_S34/MFDC9544.JPG
+2023-11-05 08:53:34 ....A       506267               N1West_06_11_2023_C19_S34/MFDC9545.JPG
+2023-11-05 08:58:34 ....A       528766               N1West_06_11_2023_C19_S34/MFDC9546.JPG
+2023-11-05 09:03:34 ....A       512906               N1West_06_11_2023_C19_S34/MFDC9547.JPG
+2023-11-05 09:08:34 ....A       497691               N1West_06_11_2023_C19_S34/MFDC9548.JPG
+2023-11-05 09:13:36 ....A       530541               N1West_06_11_2023_C19_S34/MFDC9549.JPG
+2023-11-05 09:18:34 ....A       512819               N1West_06_11_2023_C19_S34/MFDC9550.JPG
+2023-11-05 09:23:34 ....A       542827               N1West_06_11_2023_C19_S34/MFDC9551.JPG
+2023-11-05 09:28:34 ....A       512097               N1West_06_11_2023_C19_S34/MFDC9552.JPG
+2023-11-05 09:33:34 ....A       521598               N1West_06_11_2023_C19_S34/MFDC9553.JPG
+2023-11-05 09:38:34 ....A       512945               N1West_06_11_2023_C19_S34/MFDC9554.JPG
+2023-11-05 09:43:34 ....A       523241               N1West_06_11_2023_C19_S34/MFDC9555.JPG
+------------------- ----- ------------ ------------  ------------------------
+2023-11-13 12:48:54            6701243      6406816  13 files, 1 folders

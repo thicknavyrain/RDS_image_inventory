@@ -1,0 +1,32 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 3712159 bytes (3626 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/ASH_02_03_2020_C6_S43.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/ASH_02_03_2020_C6_S43.7z
+Type = 7z
+Physical Size = 3712159
+Headers Size = 332
+Method = LZMA2:22
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2020-03-09 13:52:14 D....            0            0  ASH_02_03_2020_C6_S43
+2020-03-02 07:27:22 ....A       437631      3711827  ASH_02_03_2020_C6_S43/MFDC0740.JPG
+2020-03-02 07:32:22 ....A       434214               ASH_02_03_2020_C6_S43/MFDC0741.JPG
+2020-03-02 07:37:22 ....A       438006               ASH_02_03_2020_C6_S43/MFDC0742.JPG
+2020-03-02 07:42:22 ....A       435579               ASH_02_03_2020_C6_S43/MFDC0743.JPG
+2020-03-02 07:47:22 ....A       437618               ASH_02_03_2020_C6_S43/MFDC0744.JPG
+2020-03-02 07:52:22 ....A       429012               ASH_02_03_2020_C6_S43/MFDC0745.JPG
+2020-03-02 07:57:22 ....A       433869               ASH_02_03_2020_C6_S43/MFDC0746.JPG
+2020-03-02 08:02:22 ....A       431844               ASH_02_03_2020_C6_S43/MFDC0747.JPG
+2020-03-02 08:07:22 ....A       421071               ASH_02_03_2020_C6_S43/MFDC0748.JPG
+------------------- ----- ------------ ------------  ------------------------
+2020-03-09 13:52:14            3898844      3711827  9 files, 1 folders

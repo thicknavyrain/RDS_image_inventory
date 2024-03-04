@@ -1,0 +1,28 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1970994 bytes (1925 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/JT_31_01_2020_C31_S65.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/JT_31_01_2020_C31_S65.7z
+Type = 7z
+Physical Size = 1970994
+Headers Size = 266
+Method = LZMA2:21
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2020-02-07 14:40:26 D....            0            0  JT_31_01_2020_C31_S65
+2020-01-31 09:45:44 ....A       410579      1970728  JT_31_01_2020_C31_S65/MFDC3216.JPG
+2020-01-31 09:50:44 ....A       410309               JT_31_01_2020_C31_S65/MFDC3217.JPG
+2020-01-31 09:55:44 ....A       404796               JT_31_01_2020_C31_S65/MFDC3218.JPG
+2020-01-31 10:00:44 ....A       412823               JT_31_01_2020_C31_S65/MFDC3219.JPG
+2020-01-31 10:05:44 ....A       411862               JT_31_01_2020_C31_S65/MFDC3220.JPG
+------------------- ----- ------------ ------------  ------------------------
+2020-02-07 14:40:26            2050369      1970728  5 files, 1 folders

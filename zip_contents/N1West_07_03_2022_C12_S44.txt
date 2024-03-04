@@ -1,0 +1,52 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 15751722 bytes (16 MiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/N1West/N1West_07_03_2022_C12_S44.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/N1West/N1West_07_03_2022_C12_S44.7z
+Type = 7z
+Physical Size = 15751722
+Headers Size = 623
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-03-14 17:58:40 D....            0            0  N1West_07_03_2022_C12_S44
+2022-03-07 10:01:26 ....A       558118     15751099  N1West_07_03_2022_C12_S44/MFDC9755.JPG
+2022-03-07 10:06:26 ....A       555381               N1West_07_03_2022_C12_S44/MFDC9756.JPG
+2022-03-07 10:11:26 ....A       567808               N1West_07_03_2022_C12_S44/MFDC9757.JPG
+2022-03-07 10:16:26 ....A       573349               N1West_07_03_2022_C12_S44/MFDC9758.JPG
+2022-03-07 10:21:26 ....A       586783               N1West_07_03_2022_C12_S44/MFDC9759.JPG
+2022-03-07 10:26:26 ....A       560583               N1West_07_03_2022_C12_S44/MFDC9760.JPG
+2022-03-07 10:31:26 ....A       555658               N1West_07_03_2022_C12_S44/MFDC9761.JPG
+2022-03-07 10:36:26 ....A       566507               N1West_07_03_2022_C12_S44/MFDC9762.JPG
+2022-03-07 10:41:26 ....A       555056               N1West_07_03_2022_C12_S44/MFDC9763.JPG
+2022-03-07 10:46:26 ....A       555791               N1West_07_03_2022_C12_S44/MFDC9764.JPG
+2022-03-07 10:51:26 ....A       586123               N1West_07_03_2022_C12_S44/MFDC9765.JPG
+2022-03-07 10:56:26 ....A       569378               N1West_07_03_2022_C12_S44/MFDC9766.JPG
+2022-03-07 11:01:26 ....A       559600               N1West_07_03_2022_C12_S44/MFDC9767.JPG
+2022-03-07 11:06:26 ....A       555937               N1West_07_03_2022_C12_S44/MFDC9768.JPG
+2022-03-07 11:11:26 ....A       578158               N1West_07_03_2022_C12_S44/MFDC9769.JPG
+2022-03-07 11:16:26 ....A       571494               N1West_07_03_2022_C12_S44/MFDC9770.JPG
+2022-03-07 11:21:26 ....A       594460               N1West_07_03_2022_C12_S44/MFDC9771.JPG
+2022-03-07 11:26:26 ....A       573532               N1West_07_03_2022_C12_S44/MFDC9772.JPG
+2022-03-07 11:31:26 ....A       570959               N1West_07_03_2022_C12_S44/MFDC9773.JPG
+2022-03-07 11:36:26 ....A       577817               N1West_07_03_2022_C12_S44/MFDC9774.JPG
+2022-03-07 11:41:26 ....A       568593               N1West_07_03_2022_C12_S44/MFDC9775.JPG
+2022-03-07 11:46:26 ....A       579020               N1West_07_03_2022_C12_S44/MFDC9776.JPG
+2022-03-07 11:51:26 ....A       580912               N1West_07_03_2022_C12_S44/MFDC9777.JPG
+2022-03-07 11:56:26 ....A       576255               N1West_07_03_2022_C12_S44/MFDC9778.JPG
+2022-03-07 12:01:26 ....A       582544               N1West_07_03_2022_C12_S44/MFDC9779.JPG
+2022-03-07 12:06:26 ....A       587938               N1West_07_03_2022_C12_S44/MFDC9780.JPG
+2022-03-07 12:11:26 ....A       579333               N1West_07_03_2022_C12_S44/MFDC9781.JPG
+2022-03-07 12:16:26 ....A       578945               N1West_07_03_2022_C12_S44/MFDC9782.JPG
+2022-03-07 12:21:26 ....A       580754               N1West_07_03_2022_C12_S44/MFDC9783.JPG
+------------------- ----- ------------ ------------  ------------------------
+2022-03-14 17:58:40           16586786     15751099  29 files, 1 folders

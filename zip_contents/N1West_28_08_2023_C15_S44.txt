@@ -1,0 +1,20 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 525302 bytes (513 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/N1West/N1West_28_08_2023_C15_S44.zip
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/N1West/N1West_28_08_2023_C15_S44.zip
+Type = zip
+Physical Size = 525302
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-09-04 12:37:33 D....            0            0  N1West_28_08_2023_C15_S44
+2023-08-28 09:41:24 ....A       530995       524928  N1West_28_08_2023_C15_S44/MFDC7198.JPG
+------------------- ----- ------------ ------------  ------------------------
+2023-09-04 12:37:33             530995       524928  1 files, 1 folders

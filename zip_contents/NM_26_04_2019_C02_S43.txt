@@ -1,0 +1,34 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 4888459 bytes (4774 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/NM_26_04_2019_C02_S43.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/NM_26_04_2019_C02_S43.7z
+Type = 7z
+Physical Size = 4888459
+Headers Size = 372
+Method = LZMA2:6m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2019-05-03 16:56:42 D....            0            0  NM_26_04_2019_C02_S43
+2019-04-26 07:10:12 ....A       275188      4888087  NM_26_04_2019_C02_S43/MFDC8897.JPG
+2019-04-26 07:15:12 ....A       519687               NM_26_04_2019_C02_S43/MFDC8898.JPG
+2019-04-26 07:20:12 ....A       494693               NM_26_04_2019_C02_S43/MFDC8899.JPG
+2019-04-26 07:25:12 ....A       493165               NM_26_04_2019_C02_S43/MFDC8900.JPG
+2019-04-26 07:30:12 ....A       497924               NM_26_04_2019_C02_S43/MFDC8901.JPG
+2019-04-26 07:35:12 ....A       501811               NM_26_04_2019_C02_S43/MFDC8902.JPG
+2019-04-26 07:40:12 ....A       482380               NM_26_04_2019_C02_S43/MFDC8903.JPG
+2019-04-26 07:45:12 ....A       490980               NM_26_04_2019_C02_S43/MFDC8904.JPG
+2019-04-26 07:50:12 ....A       504074               NM_26_04_2019_C02_S43/MFDC8905.JPG
+2019-04-26 07:55:12 ....A       524412               NM_26_04_2019_C02_S43/MFDC8906.JPG
+2019-05-03 06:53:04 ....A       331488               NM_26_04_2019_C02_S43/MFDC8907.JPG
+------------------- ----- ------------ ------------  ------------------------
+2019-05-03 16:56:42            5115802      4888087  11 files, 1 folders

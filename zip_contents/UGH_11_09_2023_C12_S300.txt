@@ -1,0 +1,32 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 8391945 bytes (8196 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/UGH/UGH_11_09_2023_C12_S300.zip
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/UGH/UGH_11_09_2023_C12_S300.zip
+Type = zip
+Physical Size = 8391945
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-09-18 10:49:38 D....            0            0  UGH_11_09_2023_C12_S300
+2023-09-11 07:23:14 ....A       642237       635572  UGH_11_09_2023_C12_S300/MFDC8239.JPG
+2023-09-11 07:28:14 ....A       643996       637449  UGH_11_09_2023_C12_S300/MFDC8240.JPG
+2023-09-11 07:33:14 ....A       649360       642963  UGH_11_09_2023_C12_S300/MFDC8241.JPG
+2023-09-11 07:38:14 ....A       532919       526404  UGH_11_09_2023_C12_S300/MFDC8242.JPG
+2023-09-11 07:43:14 ....A       674829       668686  UGH_11_09_2023_C12_S300/MFDC8243.JPG
+2023-09-11 07:48:14 ....A       703911       697419  UGH_11_09_2023_C12_S300/MFDC8244.JPG
+2023-09-11 07:53:14 ....A       675053       668463  UGH_11_09_2023_C12_S300/MFDC8245.JPG
+2023-09-11 07:58:14 ....A       671957       665467  UGH_11_09_2023_C12_S300/MFDC8246.JPG
+2023-09-11 08:03:14 ....A       645423       639101  UGH_11_09_2023_C12_S300/MFDC8247.JPG
+2023-09-11 08:08:14 ....A       666074       659774  UGH_11_09_2023_C12_S300/MFDC8248.JPG
+2023-09-11 08:13:14 ....A       656190       649809  UGH_11_09_2023_C12_S300/MFDC8249.JPG
+2023-09-11 08:18:14 ....A       630196       623736  UGH_11_09_2023_C12_S300/MFDC8250.JPG
+2023-09-11 08:23:14 ....A       681779       674528  UGH_11_09_2023_C12_S300/MFDC8251.JPG
+------------------- ----- ------------ ------------  ------------------------
+2023-09-18 10:49:38            8473924      8389371  13 files, 1 folders

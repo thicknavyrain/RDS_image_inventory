@@ -1,0 +1,36 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 7062431 bytes (6897 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/JT_03_01_2020_C31_S44.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/JT_03_01_2020_C31_S44.7z
+Type = 7z
+Physical Size = 7062431
+Headers Size = 392
+Method = LZMA2:23
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2020-01-10 13:06:12 D....            0            0  JT_03_01_2020_C31_S44
+2020-01-03 08:44:20 ....A       564651      7062039  JT_03_01_2020_C31_S44/MFDC1168.JPG
+2020-01-03 08:49:20 ....A       574113               JT_03_01_2020_C31_S44/MFDC1169.JPG
+2020-01-03 08:54:20 ....A       570596               JT_03_01_2020_C31_S44/MFDC1170.JPG
+2020-01-03 08:59:20 ....A       571492               JT_03_01_2020_C31_S44/MFDC1171.JPG
+2020-01-03 09:04:20 ....A       569382               JT_03_01_2020_C31_S44/MFDC1172.JPG
+2020-01-03 09:09:20 ....A       567596               JT_03_01_2020_C31_S44/MFDC1173.JPG
+2020-01-03 09:14:20 ....A       567506               JT_03_01_2020_C31_S44/MFDC1174.JPG
+2020-01-03 09:19:20 ....A       567368               JT_03_01_2020_C31_S44/MFDC1175.JPG
+2020-01-03 09:24:20 ....A       563547               JT_03_01_2020_C31_S44/MFDC1176.JPG
+2020-01-03 09:29:20 ....A       563263               JT_03_01_2020_C31_S44/MFDC1177.JPG
+2020-01-03 09:34:20 ....A       557720               JT_03_01_2020_C31_S44/MFDC1178.JPG
+2020-01-03 09:39:20 ....A       565691               JT_03_01_2020_C31_S44/MFDC1179.JPG
+2020-01-03 09:44:20 ....A       561938               JT_03_01_2020_C31_S44/MFDC1180.JPG
+------------------- ----- ------------ ------------  ------------------------
+2020-01-10 13:06:12            7364863      7062039  13 files, 1 folders

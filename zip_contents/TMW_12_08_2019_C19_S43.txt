@@ -1,0 +1,34 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 6963427 bytes (6801 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/TMW_12_08_2019_C19_S43.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/TMW_12_08_2019_C19_S43.7z
+Type = 7z
+Physical Size = 6963427
+Headers Size = 369
+Method = LZMA2:23
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2019-08-19 12:49:38 D....            0            0  TMW_12_08_2019_C19_S43
+2019-08-12 08:13:54 ....A       657805      6963058  TMW_12_08_2019_C19_S43/MFDC4456.JPG
+2019-08-12 08:18:54 ....A       649960               TMW_12_08_2019_C19_S43/MFDC4457.JPG
+2019-08-12 08:23:54 ....A       662988               TMW_12_08_2019_C19_S43/MFDC4458.JPG
+2019-08-12 08:28:54 ....A       607421               TMW_12_08_2019_C19_S43/MFDC4459.JPG
+2019-08-12 08:33:54 ....A       669741               TMW_12_08_2019_C19_S43/MFDC4460.JPG
+2019-08-12 08:38:54 ....A       669031               TMW_12_08_2019_C19_S43/MFDC4461.JPG
+2019-08-12 08:43:54 ....A       638851               TMW_12_08_2019_C19_S43/MFDC4462.JPG
+2019-08-12 08:48:54 ....A       636723               TMW_12_08_2019_C19_S43/MFDC4463.JPG
+2019-08-12 08:53:54 ....A       687662               TMW_12_08_2019_C19_S43/MFDC4464.JPG
+2019-08-12 08:58:54 ....A       699069               TMW_12_08_2019_C19_S43/MFDC4465.JPG
+2019-08-12 09:03:54 ....A       638830               TMW_12_08_2019_C19_S43/MFDC4466.JPG
+------------------- ----- ------------ ------------  ------------------------
+2019-08-19 12:49:38            7218081      6963058  11 files, 1 folders

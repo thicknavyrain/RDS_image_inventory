@@ -1,0 +1,46 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 14046251 bytes (14 MiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign/JT/JT_18_12_2020_C9_S5.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign/JT/JT_18_12_2020_C9_S5.7z
+Type = 7z
+Physical Size = 14046251
+Headers Size = 522
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2020-12-24 14:40:49 D....            0            0  JT_18_12_2020_C9_S5
+2020-12-18 08:50:54 ....A       615888     14045729  JT_18_12_2020_C9_S5/MFDC5026.JPG
+2020-12-18 08:55:54 ....A       639792               JT_18_12_2020_C9_S5/MFDC5027.JPG
+2020-12-18 09:00:54 ....A       641328               JT_18_12_2020_C9_S5/MFDC5028.JPG
+2020-12-18 09:05:54 ....A       634706               JT_18_12_2020_C9_S5/MFDC5029.JPG
+2020-12-18 09:10:54 ....A       639185               JT_18_12_2020_C9_S5/MFDC5030.JPG
+2020-12-18 09:15:54 ....A       640801               JT_18_12_2020_C9_S5/MFDC5031.JPG
+2020-12-18 09:20:54 ....A       638904               JT_18_12_2020_C9_S5/MFDC5032.JPG
+2020-12-18 09:25:54 ....A       642695               JT_18_12_2020_C9_S5/MFDC5033.JPG
+2020-12-18 09:30:54 ....A       634839               JT_18_12_2020_C9_S5/MFDC5034.JPG
+2020-12-18 09:35:54 ....A       639832               JT_18_12_2020_C9_S5/MFDC5035.JPG
+2020-12-18 09:40:54 ....A       636203               JT_18_12_2020_C9_S5/MFDC5036.JPG
+2020-12-18 09:45:54 ....A       642091               JT_18_12_2020_C9_S5/MFDC5037.JPG
+2020-12-18 09:50:54 ....A       638879               JT_18_12_2020_C9_S5/MFDC5038.JPG
+2020-12-18 09:55:54 ....A       638857               JT_18_12_2020_C9_S5/MFDC5039.JPG
+2020-12-18 10:00:54 ....A       645339               JT_18_12_2020_C9_S5/MFDC5040.JPG
+2020-12-18 10:05:54 ....A       642011               JT_18_12_2020_C9_S5/MFDC5041.JPG
+2020-12-18 10:10:54 ....A       645460               JT_18_12_2020_C9_S5/MFDC5042.JPG
+2020-12-18 10:15:54 ....A       633408               JT_18_12_2020_C9_S5/MFDC5043.JPG
+2020-12-18 10:20:54 ....A       630155               JT_18_12_2020_C9_S5/MFDC5044.JPG
+2020-12-18 10:25:54 ....A       635827               JT_18_12_2020_C9_S5/MFDC5045.JPG
+2020-12-18 10:30:54 ....A       650436               JT_18_12_2020_C9_S5/MFDC5046.JPG
+2020-12-18 10:35:54 ....A       639039               JT_18_12_2020_C9_S5/MFDC5047.JPG
+2020-12-18 10:40:54 ....A       637221               JT_18_12_2020_C9_S5/MFDC5048.JPG
+------------------- ----- ------------ ------------  ------------------------
+2020-12-24 14:40:49           14682896     14045729  23 files, 1 folders

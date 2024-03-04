@@ -1,0 +1,43 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 13131078 bytes (13 MiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign/EL/EL_15_06_2020_C32_S65.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign/EL/EL_15_06_2020_C32_S65.7z
+Type = 7z
+Physical Size = 13131078
+Headers Size = 499
+Method = LZMA2:24
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2020-06-22 12:28:59 D....            0            0  EL_15_06_2020_C32_S65
+2020-06-15 09:57:16 ....A       701895     13130579  EL_15_06_2020_C32_S65/MFDC9249.JPG
+2020-06-15 10:02:16 ....A       694384               EL_15_06_2020_C32_S65/MFDC9250.JPG
+2020-06-15 10:07:16 ....A       681593               EL_15_06_2020_C32_S65/MFDC9251.JPG
+2020-06-15 10:12:16 ....A       674829               EL_15_06_2020_C32_S65/MFDC9252.JPG
+2020-06-15 10:17:16 ....A       677013               EL_15_06_2020_C32_S65/MFDC9253.JPG
+2020-06-15 10:22:16 ....A       678483               EL_15_06_2020_C32_S65/MFDC9254.JPG
+2020-06-15 10:27:16 ....A       681199               EL_15_06_2020_C32_S65/MFDC9255.JPG
+2020-06-15 10:32:16 ....A       693027               EL_15_06_2020_C32_S65/MFDC9256.JPG
+2020-06-15 10:37:16 ....A       682130               EL_15_06_2020_C32_S65/MFDC9257.JPG
+2020-06-15 10:42:16 ....A       711944               EL_15_06_2020_C32_S65/MFDC9258.JPG
+2020-06-15 10:47:16 ....A       679515               EL_15_06_2020_C32_S65/MFDC9259.JPG
+2020-06-15 10:52:16 ....A       685665               EL_15_06_2020_C32_S65/MFDC9260.JPG
+2020-06-15 10:57:16 ....A       683337               EL_15_06_2020_C32_S65/MFDC9261.JPG
+2020-06-15 11:02:18 ....A       675583               EL_15_06_2020_C32_S65/MFDC9262.JPG
+2020-06-15 11:07:16 ....A       668824               EL_15_06_2020_C32_S65/MFDC9263.JPG
+2020-06-15 11:12:16 ....A       670454               EL_15_06_2020_C32_S65/MFDC9264.JPG
+2020-06-15 11:17:16 ....A       665761               EL_15_06_2020_C32_S65/MFDC9265.JPG
+2020-06-15 11:22:16 ....A       697212               EL_15_06_2020_C32_S65/MFDC9266.JPG
+2020-06-15 11:27:16 ....A       670562               EL_15_06_2020_C32_S65/MFDC9267.JPG
+2020-06-15 11:32:16 ....A       673404               EL_15_06_2020_C32_S65/MFDC9268.JPG
+------------------- ----- ------------ ------------  ------------------------
+2020-06-22 12:28:59           13646814     13130579  20 files, 1 folders

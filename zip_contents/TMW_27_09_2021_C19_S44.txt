@@ -1,0 +1,37 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 7756103 bytes (7575 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/TMW/TMW_27_09_2021_C19_S44.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/TMW/TMW_27_09_2021_C19_S44.7z
+Type = 7z
+Physical Size = 7756103
+Headers Size = 411
+Method = LZMA2:23
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2021-10-04 14:18:55 D....            0            0  TMW_27_09_2021_C19_S44
+2021-09-27 11:15:48 ....A       600096      7755692  TMW_27_09_2021_C19_S44/MFDC5501.JPG
+2021-09-27 11:20:48 ....A       594954               TMW_27_09_2021_C19_S44/MFDC5502.JPG
+2021-09-27 11:25:48 ....A       587341               TMW_27_09_2021_C19_S44/MFDC5503.JPG
+2021-09-27 11:30:48 ....A       587969               TMW_27_09_2021_C19_S44/MFDC5504.JPG
+2021-09-27 11:35:48 ....A       593973               TMW_27_09_2021_C19_S44/MFDC5505.JPG
+2021-09-27 11:40:48 ....A       579844               TMW_27_09_2021_C19_S44/MFDC5506.JPG
+2021-09-27 11:45:48 ....A       580283               TMW_27_09_2021_C19_S44/MFDC5507.JPG
+2021-09-27 11:50:48 ....A       572595               TMW_27_09_2021_C19_S44/MFDC5508.JPG
+2021-09-27 11:55:50 ....A       598530               TMW_27_09_2021_C19_S44/MFDC5509.JPG
+2021-09-27 12:00:48 ....A       558033               TMW_27_09_2021_C19_S44/MFDC5510.JPG
+2021-09-27 12:05:48 ....A       573915               TMW_27_09_2021_C19_S44/MFDC5511.JPG
+2021-09-27 12:10:48 ....A       551530               TMW_27_09_2021_C19_S44/MFDC5512.JPG
+2021-09-27 12:15:48 ....A       545610               TMW_27_09_2021_C19_S44/MFDC5513.JPG
+2021-09-27 12:20:48 ....A       550861               TMW_27_09_2021_C19_S44/MFDC5514.JPG
+------------------- ----- ------------ ------------  ------------------------
+2021-10-04 14:18:55            8075534      7755692  14 files, 1 folders

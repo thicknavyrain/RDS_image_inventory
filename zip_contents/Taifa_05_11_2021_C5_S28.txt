@@ -1,0 +1,36 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 5258584 bytes (5136 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/Taifa/Taifa_05_11_2021_C5_S28.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/Taifa/Taifa_05_11_2021_C5_S28.7z
+Type = 7z
+Physical Size = 5258584
+Headers Size = 396
+Method = LZMA2:6m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2021-11-12 16:18:40 D....            0            0  Taifa_05_11_2021_C5_S28
+2021-11-05 12:01:36 ....A       416373      5258188  Taifa_05_11_2021_C5_S28/MFDC9836.JPG
+2021-11-05 12:06:36 ....A       425775               Taifa_05_11_2021_C5_S28/MFDC9837.JPG
+2021-11-05 12:11:36 ....A       419317               Taifa_05_11_2021_C5_S28/MFDC9838.JPG
+2021-11-05 12:16:36 ....A       423750               Taifa_05_11_2021_C5_S28/MFDC9839.JPG
+2021-11-05 12:21:36 ....A       447950               Taifa_05_11_2021_C5_S28/MFDC9840.JPG
+2021-11-05 12:26:36 ....A       420645               Taifa_05_11_2021_C5_S28/MFDC9841.JPG
+2021-11-05 12:31:36 ....A       420897               Taifa_05_11_2021_C5_S28/MFDC9842.JPG
+2021-11-05 12:36:36 ....A       439928               Taifa_05_11_2021_C5_S28/MFDC9843.JPG
+2021-11-05 12:41:36 ....A       419708               Taifa_05_11_2021_C5_S28/MFDC9844.JPG
+2021-11-05 12:46:36 ....A       434821               Taifa_05_11_2021_C5_S28/MFDC9845.JPG
+2021-11-05 12:51:36 ....A       446301               Taifa_05_11_2021_C5_S28/MFDC9846.JPG
+2021-11-05 12:56:36 ....A       420920               Taifa_05_11_2021_C5_S28/MFDC9847.JPG
+2021-11-05 13:01:36 ....A       416828               Taifa_05_11_2021_C5_S28/MFDC9848.JPG
+------------------- ----- ------------ ------------  ------------------------
+2021-11-12 16:18:40            5553213      5258188  13 files, 1 folders

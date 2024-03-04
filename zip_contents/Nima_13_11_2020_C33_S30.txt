@@ -1,0 +1,33 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 5656017 bytes (5524 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign/Nima/Nima_13_11_2020_C33_S30.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign/Nima/Nima_13_11_2020_C33_S30.7z
+Type = 7z
+Physical Size = 5656017
+Headers Size = 352
+Method = LZMA2:6m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2020-11-20 13:33:08 D....            0            0  Nima_13_11_2020_C33_S30
+2020-11-13 07:04:44 ....A       595097      5655665  Nima_13_11_2020_C33_S30/MFDC6017.JPG
+2020-11-13 07:09:44 ....A       594686               Nima_13_11_2020_C33_S30/MFDC6018.JPG
+2020-11-13 07:14:44 ....A       598913               Nima_13_11_2020_C33_S30/MFDC6019.JPG
+2020-11-13 07:19:44 ....A       591432               Nima_13_11_2020_C33_S30/MFDC6020.JPG
+2020-11-13 07:24:44 ....A       597817               Nima_13_11_2020_C33_S30/MFDC6021.JPG
+2020-11-13 07:29:44 ....A       590587               Nima_13_11_2020_C33_S30/MFDC6022.JPG
+2020-11-13 07:34:44 ....A       588699               Nima_13_11_2020_C33_S30/MFDC6023.JPG
+2020-11-13 07:39:44 ....A       583477               Nima_13_11_2020_C33_S30/MFDC6024.JPG
+2020-11-13 07:44:44 ....A       565770               Nima_13_11_2020_C33_S30/MFDC6025.JPG
+2020-11-13 07:49:44 ....A       571331               Nima_13_11_2020_C33_S30/MFDC6026.JPG
+------------------- ----- ------------ ------------  ------------------------
+2020-11-20 13:33:08            5877809      5655665  10 files, 1 folders

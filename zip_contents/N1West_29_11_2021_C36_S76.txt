@@ -1,0 +1,38 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 7025748 bytes (6862 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/N1West/N1West_29_11_2021_C36_S76.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/N1West/N1West_29_11_2021_C36_S76.7z
+Type = 7z
+Physical Size = 7025748
+Headers Size = 432
+Method = LZMA2:23
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2021-12-06 14:20:29 D....            0            0  N1West_29_11_2021_C36_S76
+2021-11-29 11:30:34 ....A       496611      7025316  N1West_29_11_2021_C36_S76/MFDC8963.JPG
+2021-11-29 11:35:34 ....A       481173               N1West_29_11_2021_C36_S76/MFDC8964.JPG
+2021-11-29 11:40:34 ....A       497949               N1West_29_11_2021_C36_S76/MFDC8965.JPG
+2021-11-29 11:45:34 ....A       503299               N1West_29_11_2021_C36_S76/MFDC8966.JPG
+2021-11-29 11:50:34 ....A       507018               N1West_29_11_2021_C36_S76/MFDC8967.JPG
+2021-11-29 11:55:34 ....A       503974               N1West_29_11_2021_C36_S76/MFDC8968.JPG
+2021-11-29 12:00:34 ....A       490712               N1West_29_11_2021_C36_S76/MFDC8969.JPG
+2021-11-29 12:05:34 ....A       487880               N1West_29_11_2021_C36_S76/MFDC8970.JPG
+2021-11-29 12:10:34 ....A       467582               N1West_29_11_2021_C36_S76/MFDC8971.JPG
+2021-11-29 12:15:34 ....A       464039               N1West_29_11_2021_C36_S76/MFDC8972.JPG
+2021-11-29 12:20:34 ....A       503445               N1West_29_11_2021_C36_S76/MFDC8973.JPG
+2021-11-29 12:25:34 ....A       502139               N1West_29_11_2021_C36_S76/MFDC8974.JPG
+2021-11-29 12:30:34 ....A       487280               N1West_29_11_2021_C36_S76/MFDC8975.JPG
+2021-11-29 12:35:34 ....A       483494               N1West_29_11_2021_C36_S76/MFDC8976.JPG
+2021-11-29 12:40:34 ....A       515629               N1West_29_11_2021_C36_S76/MFDC8977.JPG
+------------------- ----- ------------ ------------  ------------------------
+2021-12-06 14:20:29            7392224      7025316  15 files, 1 folders

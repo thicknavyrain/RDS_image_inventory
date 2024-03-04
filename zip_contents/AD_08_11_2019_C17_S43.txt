@@ -1,0 +1,24 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 549713 bytes (537 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/AD_08_11_2019_C17_S43.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/AD_08_11_2019_C17_S43.7z
+Type = 7z
+Physical Size = 549713
+Headers Size = 201
+Method = LZMA2:768k
+Solid = -
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2019-11-15 15:56:44 D....            0            0  AD_08_11_2019_C17_S43
+2019-11-08 08:03:42 ....A       556033       549512  AD_08_11_2019_C17_S43/MFDC8657.JPG
+------------------- ----- ------------ ------------  ------------------------
+2019-11-15 15:56:44             556033       549512  1 files, 1 folders

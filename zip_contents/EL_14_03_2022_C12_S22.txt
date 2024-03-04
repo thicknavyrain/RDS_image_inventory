@@ -1,0 +1,33 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 5785599 bytes (5650 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/EL/EL_14_03_2022_C12_S22.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/EL/EL_14_03_2022_C12_S22.7z
+Type = 7z
+Physical Size = 5785599
+Headers Size = 351
+Method = LZMA2:6m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2022-03-21 13:44:52 D....            0            0  EL_14_03_2022_C12_S22
+2022-03-14 10:27:48 ....A       598653      5785248  EL_14_03_2022_C12_S22/MFDC9784.JPG
+2022-03-14 10:32:48 ....A       610741               EL_14_03_2022_C12_S22/MFDC9785.JPG
+2022-03-14 10:37:48 ....A       608484               EL_14_03_2022_C12_S22/MFDC9786.JPG
+2022-03-14 10:42:48 ....A       612931               EL_14_03_2022_C12_S22/MFDC9787.JPG
+2022-03-14 10:47:48 ....A       593529               EL_14_03_2022_C12_S22/MFDC9788.JPG
+2022-03-14 10:52:48 ....A       607220               EL_14_03_2022_C12_S22/MFDC9789.JPG
+2022-03-14 10:57:48 ....A       602874               EL_14_03_2022_C12_S22/MFDC9790.JPG
+2022-03-14 11:02:48 ....A       601075               EL_14_03_2022_C12_S22/MFDC9791.JPG
+2022-03-14 11:07:48 ....A       597213               EL_14_03_2022_C12_S22/MFDC9792.JPG
+2022-03-14 11:12:48 ....A       571913               EL_14_03_2022_C12_S22/MFDC9793.JPG
+------------------- ----- ------------ ------------  ------------------------
+2022-03-21 13:44:52            6004633      5785248  10 files, 1 folders

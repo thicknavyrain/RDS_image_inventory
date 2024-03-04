@@ -1,0 +1,37 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 7592040 bytes (7415 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/Taifa_27_09_2019_C21_S85.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/Taifa_27_09_2019_C21_S85.7z
+Type = 7z
+Physical Size = 7592040
+Headers Size = 409
+Method = LZMA2:23
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2019-10-04 13:21:35 D....            0            0  Taifa_27_09_2019_C21_S85
+2019-09-27 11:16:00 ....A       556821      7591631  Taifa_27_09_2019_C21_S85/MFDC2970.JPG
+2019-09-27 11:21:00 ....A       559734               Taifa_27_09_2019_C21_S85/MFDC2971.JPG
+2019-09-27 11:26:00 ....A       556795               Taifa_27_09_2019_C21_S85/MFDC2972.JPG
+2019-09-27 11:31:00 ....A       556342               Taifa_27_09_2019_C21_S85/MFDC2973.JPG
+2019-09-27 11:36:00 ....A       572900               Taifa_27_09_2019_C21_S85/MFDC2974.JPG
+2019-09-27 11:41:00 ....A       551697               Taifa_27_09_2019_C21_S85/MFDC2975.JPG
+2019-09-27 11:46:00 ....A       563049               Taifa_27_09_2019_C21_S85/MFDC2976.JPG
+2019-09-27 11:51:00 ....A       571865               Taifa_27_09_2019_C21_S85/MFDC2977.JPG
+2019-09-27 11:56:00 ....A       556373               Taifa_27_09_2019_C21_S85/MFDC2978.JPG
+2019-09-27 12:01:00 ....A       585200               Taifa_27_09_2019_C21_S85/MFDC2979.JPG
+2019-09-27 12:06:00 ....A       580063               Taifa_27_09_2019_C21_S85/MFDC2980.JPG
+2019-09-27 12:11:00 ....A       555695               Taifa_27_09_2019_C21_S85/MFDC2981.JPG
+2019-09-27 12:16:00 ....A       559258               Taifa_27_09_2019_C21_S85/MFDC2982.JPG
+2019-09-27 12:21:00 ....A       573416               Taifa_27_09_2019_C21_S85/MFDC2983.JPG
+------------------- ----- ------------ ------------  ------------------------
+2019-10-04 13:21:35            7899208      7591631  14 files, 1 folders

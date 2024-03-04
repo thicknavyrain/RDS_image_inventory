@@ -1,0 +1,30 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 5481210 bytes (5353 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/N1West/N1West_15_05_2023_C15_S21.zip
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign4/N1West/N1West_15_05_2023_C15_S21.zip
+Type = zip
+Physical Size = 5481210
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2023-05-22 06:39:05 D....            0            0  N1West_15_05_2023_C15_S21
+2023-05-15 11:02:22 ....A       504700       498466  N1West_15_05_2023_C15_S21/MFDC5464.JPG
+2023-05-15 11:07:22 ....A       501983       495926  N1West_15_05_2023_C15_S21/MFDC5465.JPG
+2023-05-15 11:12:22 ....A       501271       495365  N1West_15_05_2023_C15_S21/MFDC5466.JPG
+2023-05-15 11:17:22 ....A       493531       487459  N1West_15_05_2023_C15_S21/MFDC5467.JPG
+2023-05-15 11:22:22 ....A       496845       490689  N1West_15_05_2023_C15_S21/MFDC5468.JPG
+2023-05-15 11:27:22 ....A       505347       499423  N1West_15_05_2023_C15_S21/MFDC5469.JPG
+2023-05-15 11:32:22 ....A       507494       501268  N1West_15_05_2023_C15_S21/MFDC5470.JPG
+2023-05-15 11:37:22 ....A       506329       500392  N1West_15_05_2023_C15_S21/MFDC5471.JPG
+2023-05-15 11:42:22 ....A       514072       507514  N1West_15_05_2023_C15_S21/MFDC5472.JPG
+2023-05-15 11:47:22 ....A       510015       503777  N1West_15_05_2023_C15_S21/MFDC5473.JPG
+2023-05-15 11:52:22 ....A       504691       498677  N1West_15_05_2023_C15_S21/MFDC5474.JPG
+------------------- ----- ------------ ------------  ------------------------
+2023-05-22 06:39:05            5546278      5478956  11 files, 1 folders

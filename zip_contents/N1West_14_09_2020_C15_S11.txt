@@ -1,0 +1,40 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 8328378 bytes (8134 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign/N1West/N1West_14_09_2020_C15_S11.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign/N1West/N1West_14_09_2020_C15_S11.7z
+Type = 7z
+Physical Size = 8328378
+Headers Size = 457
+Method = LZMA2:12m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2020-09-21 12:38:55 D....            0            0  N1West_14_09_2020_C15_S11
+2020-09-14 08:41:42 ....A       519472      8327921  N1West_14_09_2020_C15_S11/MFDC9121.JPG
+2020-09-14 08:46:42 ....A       501930               N1West_14_09_2020_C15_S11/MFDC9122.JPG
+2020-09-14 08:51:42 ....A       510151               N1West_14_09_2020_C15_S11/MFDC9123.JPG
+2020-09-14 08:56:42 ....A       527854               N1West_14_09_2020_C15_S11/MFDC9124.JPG
+2020-09-14 09:01:42 ....A       506010               N1West_14_09_2020_C15_S11/MFDC9125.JPG
+2020-09-14 09:06:42 ....A       509429               N1West_14_09_2020_C15_S11/MFDC9126.JPG
+2020-09-14 09:11:42 ....A       510544               N1West_14_09_2020_C15_S11/MFDC9127.JPG
+2020-09-14 09:16:42 ....A       517006               N1West_14_09_2020_C15_S11/MFDC9128.JPG
+2020-09-14 09:21:42 ....A       510533               N1West_14_09_2020_C15_S11/MFDC9129.JPG
+2020-09-14 09:26:42 ....A       510512               N1West_14_09_2020_C15_S11/MFDC9130.JPG
+2020-09-14 09:31:42 ....A       510748               N1West_14_09_2020_C15_S11/MFDC9131.JPG
+2020-09-14 09:36:42 ....A       514720               N1West_14_09_2020_C15_S11/MFDC9132.JPG
+2020-09-14 09:41:42 ....A       514774               N1West_14_09_2020_C15_S11/MFDC9133.JPG
+2020-09-14 09:46:42 ....A       514675               N1West_14_09_2020_C15_S11/MFDC9134.JPG
+2020-09-14 09:51:42 ....A       509929               N1West_14_09_2020_C15_S11/MFDC9135.JPG
+2020-09-14 09:56:42 ....A       535281               N1West_14_09_2020_C15_S11/MFDC9136.JPG
+2020-09-14 10:01:42 ....A       532407               N1West_14_09_2020_C15_S11/MFDC9137.JPG
+------------------- ----- ------------ ------------  ------------------------
+2020-09-21 12:38:55            8755975      8327921  17 files, 1 folders

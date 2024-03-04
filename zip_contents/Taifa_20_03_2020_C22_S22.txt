@@ -1,0 +1,26 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1692530 bytes (1653 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/Taifa_20_03_2020_C22_S22.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera/Taifa_20_03_2020_C22_S22.7z
+Type = 7z
+Physical Size = 1692530
+Headers Size = 239
+Method = LZMA2:21
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2020-03-27 14:31:37 D....            0            0  Taifa_20_03_2020_C22_S22
+2020-03-20 12:35:40 ....A       565704      1692291  Taifa_20_03_2020_C22_S22/MFDC6266.JPG
+2020-03-20 12:40:40 ....A       577621               Taifa_20_03_2020_C22_S22/MFDC6267.JPG
+2020-03-20 12:45:40 ....A       583903               Taifa_20_03_2020_C22_S22/MFDC6268.JPG
+------------------- ----- ------------ ------------  ------------------------
+2020-03-27 14:31:37            1727228      1692291  3 files, 1 folders

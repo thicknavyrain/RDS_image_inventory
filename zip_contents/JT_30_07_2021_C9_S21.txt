@@ -1,0 +1,33 @@
+
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,256 CPUs AMD EPYC 7742 64-Core Processor                 (830F10),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 6235883 bytes (6090 KiB)
+
+Listing archive: ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/JT/JT_30_07_2021_C9_S21.7z
+
+--
+Path = ../projects/imagery-accra/live/Full_Campaign_Accra/Long Term Sites/Camera_PostCampaign2/JT/JT_30_07_2021_C9_S21.7z
+Type = 7z
+Physical Size = 6235883
+Headers Size = 349
+Method = LZMA2:23
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2021-08-06 14:01:55 D....            0            0  JT_30_07_2021_C9_S21
+2021-07-30 08:38:54 ....A       642622      6235534  JT_30_07_2021_C9_S21/MFDC3546.JPG
+2021-07-30 08:43:54 ....A       644516               JT_30_07_2021_C9_S21/MFDC3547.JPG
+2021-07-30 08:48:54 ....A       649081               JT_30_07_2021_C9_S21/MFDC3548.JPG
+2021-07-30 08:53:54 ....A       644288               JT_30_07_2021_C9_S21/MFDC3549.JPG
+2021-07-30 08:58:54 ....A       642481               JT_30_07_2021_C9_S21/MFDC3550.JPG
+2021-07-30 09:03:54 ....A       643607               JT_30_07_2021_C9_S21/MFDC3551.JPG
+2021-07-30 09:08:54 ....A       641898               JT_30_07_2021_C9_S21/MFDC3552.JPG
+2021-07-30 09:13:54 ....A       645988               JT_30_07_2021_C9_S21/MFDC3553.JPG
+2021-07-30 09:18:54 ....A       645982               JT_30_07_2021_C9_S21/MFDC3554.JPG
+2021-07-30 09:23:54 ....A       638405               JT_30_07_2021_C9_S21/MFDC3555.JPG
+------------------- ----- ------------ ------------  ------------------------
+2021-08-06 14:01:55            6438868      6235534  10 files, 1 folders
